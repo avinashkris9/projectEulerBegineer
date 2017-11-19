@@ -1,2 +1,2 @@
-# projectEulerBegineer
-Learning through Project Euler 
+# Read
+Learning through Projects 
