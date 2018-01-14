@@ -1,3 +1,4 @@
 a text file in branch
 
-edit in second branch
+edit in second branc
+######################## issue resolved
