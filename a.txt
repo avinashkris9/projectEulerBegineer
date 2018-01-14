@@ -1,10 +1,3 @@
 a text file in branch
 
-<<<<<<< HEAD
-edit in second branch
-
-do it your own way!
-=======
-edit in second branc
-######################## issue resolved
->>>>>>> fix
+this is a test file
